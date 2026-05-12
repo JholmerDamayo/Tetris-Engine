@@ -1,0 +1,6 @@
+{
+  "name": "Tetris Engine",
+  "description": "A high-performance Tetris engine with local account management and sleek neon visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
